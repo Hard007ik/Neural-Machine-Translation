@@ -1,0 +1,16 @@
+dvc
+PyYAML
+sentencepiece
+sacrebleu
+evaluate
+sacremoses
+bitsandbytes
+torch==2.6.0
+pandas
+numpy
+regex
+datasets
+scikit-learn
+transformers
+peft
+gradio
